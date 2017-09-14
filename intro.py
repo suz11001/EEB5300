@@ -99,9 +99,11 @@ else:
     
 
 ###indentation MATTERS!    
+
+#functioning for loop
 for s in students:
     print s
 
+#non functioning for loop
 for s in students:
-
 print s 
